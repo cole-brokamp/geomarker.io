@@ -1,0 +1,6 @@
+name: "geocore.io"
+output_dir: "."
+output:
+  html_document:
+    theme: flatly
+

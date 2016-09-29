@@ -1,0 +1,43 @@
+---
+title: ""
+---
+
+<center> <h1>geocore.io</h1> </center>
+
+<style>
+  .col2 {
+    columns: 2 200px;
+    -webkit-columns: 2 200px;
+    -moz-columns: 2 200px;
+  }
+</style>
+
+
+
+<div class="col2">
+
+&nbsp; 
+
+<center> 
+
+<h4>Cincinnati Neighborhoods</h4>
+
+[geocore.io/neighborhood](http://ecat-map.amazon-shiny.duckdns.org)
+
+[![](figs/ecat-map.gif)](http://ecat-map.amazon-shiny.duckdns.org) 
+
+</center>
+
+<center> 
+
+&nbsp; 
+
+<h4>Individual Dashboard</h4>
+
+[geocore.io/individual](http://ecat-map.amazon-shiny.duckdns.org)
+
+[![](figs/ecat-map.gif)](http://ecat-map.amazon-shiny.duckdns.org) 
+
+</center>
+
+</div>
