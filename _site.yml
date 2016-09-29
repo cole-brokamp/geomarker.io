@@ -1,4 +1,4 @@
-name: "geocore.io"
+name: "geomarker.io"
 output_dir: "."
 output:
   html_document:
