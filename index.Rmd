@@ -22,7 +22,7 @@ title: ""
 
 <h4>Cincinnati Neighborhoods</h4>
 
-[geocore.io/neighborhood](http://ecat-app_map.amazon-shiny.duckdns.org)
+[geomarker.io/neighborhood](http://ecat-app_map.amazon-shiny.duckdns.org)
 
 [![](figs/ecat-map.gif)](http://ecat-app_map.amazon-shiny.duckdns.org) 
 
@@ -34,11 +34,11 @@ title: ""
 
 <h4>Individual Dashboard</h4>
 
-[geocore.io/individual](figs/geomarker_screenshot.png)
+[geomarker.io/individual](http://geomarker.io/individual)
 
 &nbsp; 
 
-[![](figs/geomarker_screenshot.resize.png)](figs/geomarker_screenshot.png) 
+[![](figs/geomarker_screenshot.resize.png)](http://geomarker.io/individual) 
 
 </center>
 
