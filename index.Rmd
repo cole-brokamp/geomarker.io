@@ -34,7 +34,9 @@ title: ""
 
 <h4>Individual Dashboard</h4>
 
-geocore.io/individual
+[geocore.io/individual](figs/geomarker_screenshot.png)
+
+&nbsp; 
 
 [![](figs/geomarker_screenshot.resize.png)](figs/geomarker_screenshot.png) 
 
