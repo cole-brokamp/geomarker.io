@@ -12,7 +12,7 @@ title: ""
   }
 </style>
 
-
+&nbsp; 
 
 <div class="col2">
 
@@ -22,9 +22,9 @@ title: ""
 
 <h4>Cincinnati Neighborhoods</h4>
 
-[geocore.io/neighborhood](http://ecat-map.amazon-shiny.duckdns.org)
+[geocore.io/neighborhood](http://ecat-app_map.amazon-shiny.duckdns.org)
 
-[![](figs/ecat-map.gif)](http://ecat-map.amazon-shiny.duckdns.org) 
+[![](figs/ecat-map.gif)](http://ecat-app_map.amazon-shiny.duckdns.org) 
 
 </center>
 
@@ -34,9 +34,9 @@ title: ""
 
 <h4>Individual Dashboard</h4>
 
-[geocore.io/individual](http://ecat-map.amazon-shiny.duckdns.org)
+geocore.io/individual
 
-[![](figs/ecat-map.gif)](http://ecat-map.amazon-shiny.duckdns.org) 
+[![](figs/geomarker_screenshot.resize.png)](figs/geomarker_screenshot.png) 
 
 </center>
 
