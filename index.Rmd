@@ -2,44 +2,14 @@
 title: ""
 ---
 
-<center> <h1>geomarker.io</h1> </center>
-
-<style>
-  .col2 {
-    columns: 2 200px;
-    -webkit-columns: 2 200px;
-    -moz-columns: 2 200px;
-  }
-</style>
-
-&nbsp; 
-
-<div class="col2">
-
-&nbsp; 
-
 <center> 
 
-<h4>Cincinnati Neighborhoods</h4>
+<h2>[geomarker.io/neighborhood](http://geomarker.io/neighborhood)</h2>
 
-[geomarker.io/neighborhood](http://ecat-app_map.amazon-shiny.duckdns.org)
+[![](figs/cincy_neighborhoods_app.png)](http://geomarker.io/neighborhood) 
 
-[![](figs/ecat-map.gif)](http://ecat-app_map.amazon-shiny.duckdns.org) 
-
-</center>
-
-<center> 
-
-&nbsp; 
-
-<h4>Individual Dashboard</h4>
-
-[geomarker.io/individual](http://geomarker.io/individual)
-
-&nbsp; 
+<h2>[geomarker.io/individual](http://geomarker.io/individual)</h2>
 
 [![](figs/geomarker_screenshot.resize.png)](http://geomarker.io/individual) 
 
 </center>
-
-</div>
